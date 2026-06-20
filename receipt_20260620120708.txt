@@ -1,0 +1,12 @@
+==================================
+SMART BUSINESS MANAGEMENT SYSTEM
+
+Customer : Abdul Tom Ngebeh
+Product  : Iphone 17
+Quantity : 2
+Total    : Le 30000.0
+
+Status   : Pending
+
+Thank You For Your Purchase
+==================================
